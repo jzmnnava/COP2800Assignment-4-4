@@ -7,7 +7,7 @@ public class ComputeAreaOfHexagon {
     Scanner input = new Scanner(System.in);
 
 //Input number of sides
-    System.out.print("Enter the sides: ");
+    System.out.print("Enter the side: ");
     double s = input.nextDouble();
 
 //Calculate area
